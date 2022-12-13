@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakinasyed&label=Views&color=blue&style=plastic" alt="sakinasyed" /> </p>
 
 
-<a href="https://www.linkedin.com/in/sakina-syed-rasool-8a80b6174/">
+<a href="https://www.linkedin.com/in/sakeena-syed-b99649233/">
   <img align="left" alt="Sakina's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/sakinasyed">
