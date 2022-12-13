@@ -22,7 +22,7 @@
 - ⚡ Fun fact: I would love to work with same minded people like me as a team.
 
 [![Linkedin: SakeenaSyed](https://img.shields.io/badge/-SakeenaSyed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakeena-syed-rasool-b99649233)](https://www.linkedin.com/in/sakeena-syed-rasool-b99649233)
-[![GitHub sakinasyed](https://github.com/sakinasyed)
+[![GitHub sakinasyed](https://img.shields.io/github/followers/sakinasyed?label=follow&style=social)](https://github.com/sakinasyed)
 
 
 
